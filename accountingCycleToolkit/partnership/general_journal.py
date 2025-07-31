@@ -2,7 +2,7 @@ import pandas as pd
 import random
 
 from .root_account import Account
-
+#what is that
 print('sucessful imports')
 # WHAT  IS JOURNALING???
 # Journaling is tha first step in the accounting cycle
